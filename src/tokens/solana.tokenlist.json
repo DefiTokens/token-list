@@ -108115,6 +108115,18 @@
     },
     {
       "chainId": 101,
+      "address": "6xreK49Nq2VEvcQNpddKWqWwQXBDMgZoNqfz2NiG75Wp",
+      "symbol": "BONG",
+      "name": "MCS Farmer's Pass",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/DefiTokens/assets/main/pass.png",
+      "extensions": {
+        "twitter": "https://twitter.com/metajuananft",
+        "website": "https://metajuanacs.com/"
+      }
+    },
+    {
+      "chainId": 101,
       "address": "7ePMLZDsyV6y3BhiSwiewzsTvbh5XkUDiEXVtvB2wGP4",
       "symbol": "VM",
       "name": "Versus Mode",
